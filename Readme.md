@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Georgiy  Karasev](https://up.htmlacademy.ru/htmlcss/34/user/2110271).
-* Наставник:[Алена Сафьянникова](https://htmlacademy.ru/profile/safyann). 
+* Наставник:[Алена  Сафьянникова](https://htmlacademy.ru/profile/safyann). 
 
 ---
 
